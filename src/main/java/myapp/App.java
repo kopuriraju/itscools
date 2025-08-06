@@ -5,6 +5,6 @@ package myapp;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("good morning Devops engineers!");
+        System.out.println("good morning Cloudops/Devops engineers!");
     }
 }
